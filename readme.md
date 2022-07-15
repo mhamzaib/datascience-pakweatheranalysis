@@ -21,3 +21,4 @@ An extension of this work may be added to accept any city and determine weather 
 
 #### Approach 2 - Heat map (TBD)
 
+1. Attempted adding seaborn and plotting heatmap for month -> failed due to shape being 1d, needs 2d array
